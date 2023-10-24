@@ -1,0 +1,15 @@
+/Users/aeg/jobApp/cSharpFull/Loops/bin/Debug/net7.0/Loops
+/Users/aeg/jobApp/cSharpFull/Loops/bin/Debug/net7.0/Loops.deps.json
+/Users/aeg/jobApp/cSharpFull/Loops/bin/Debug/net7.0/Loops.runtimeconfig.json
+/Users/aeg/jobApp/cSharpFull/Loops/bin/Debug/net7.0/Loops.dll
+/Users/aeg/jobApp/cSharpFull/Loops/bin/Debug/net7.0/Loops.pdb
+/Users/aeg/jobApp/cSharpFull/Loops/obj/Debug/net7.0/Loops.csproj.AssemblyReference.cache
+/Users/aeg/jobApp/cSharpFull/Loops/obj/Debug/net7.0/Loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aeg/jobApp/cSharpFull/Loops/obj/Debug/net7.0/Loops.AssemblyInfoInputs.cache
+/Users/aeg/jobApp/cSharpFull/Loops/obj/Debug/net7.0/Loops.AssemblyInfo.cs
+/Users/aeg/jobApp/cSharpFull/Loops/obj/Debug/net7.0/Loops.csproj.CoreCompileInputs.cache
+/Users/aeg/jobApp/cSharpFull/Loops/obj/Debug/net7.0/Loops.dll
+/Users/aeg/jobApp/cSharpFull/Loops/obj/Debug/net7.0/refint/Loops.dll
+/Users/aeg/jobApp/cSharpFull/Loops/obj/Debug/net7.0/Loops.pdb
+/Users/aeg/jobApp/cSharpFull/Loops/obj/Debug/net7.0/Loops.genruntimeconfig.cache
+/Users/aeg/jobApp/cSharpFull/Loops/obj/Debug/net7.0/ref/Loops.dll

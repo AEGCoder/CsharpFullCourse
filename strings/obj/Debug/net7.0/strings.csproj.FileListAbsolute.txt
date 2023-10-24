@@ -1,0 +1,15 @@
+/Users/aeg/jobApp/cSharpFull/strings/bin/Debug/net7.0/strings
+/Users/aeg/jobApp/cSharpFull/strings/bin/Debug/net7.0/strings.deps.json
+/Users/aeg/jobApp/cSharpFull/strings/bin/Debug/net7.0/strings.runtimeconfig.json
+/Users/aeg/jobApp/cSharpFull/strings/bin/Debug/net7.0/strings.dll
+/Users/aeg/jobApp/cSharpFull/strings/bin/Debug/net7.0/strings.pdb
+/Users/aeg/jobApp/cSharpFull/strings/obj/Debug/net7.0/strings.csproj.AssemblyReference.cache
+/Users/aeg/jobApp/cSharpFull/strings/obj/Debug/net7.0/strings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aeg/jobApp/cSharpFull/strings/obj/Debug/net7.0/strings.AssemblyInfoInputs.cache
+/Users/aeg/jobApp/cSharpFull/strings/obj/Debug/net7.0/strings.AssemblyInfo.cs
+/Users/aeg/jobApp/cSharpFull/strings/obj/Debug/net7.0/strings.csproj.CoreCompileInputs.cache
+/Users/aeg/jobApp/cSharpFull/strings/obj/Debug/net7.0/strings.dll
+/Users/aeg/jobApp/cSharpFull/strings/obj/Debug/net7.0/refint/strings.dll
+/Users/aeg/jobApp/cSharpFull/strings/obj/Debug/net7.0/strings.pdb
+/Users/aeg/jobApp/cSharpFull/strings/obj/Debug/net7.0/strings.genruntimeconfig.cache
+/Users/aeg/jobApp/cSharpFull/strings/obj/Debug/net7.0/ref/strings.dll

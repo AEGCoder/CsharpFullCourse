@@ -1,0 +1,15 @@
+/Users/aeg/jobApp/cSharpFull/Methods/obj/Debug/net7.0/Methods.csproj.AssemblyReference.cache
+/Users/aeg/jobApp/cSharpFull/Methods/obj/Debug/net7.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aeg/jobApp/cSharpFull/Methods/obj/Debug/net7.0/Methods.AssemblyInfoInputs.cache
+/Users/aeg/jobApp/cSharpFull/Methods/obj/Debug/net7.0/Methods.AssemblyInfo.cs
+/Users/aeg/jobApp/cSharpFull/Methods/obj/Debug/net7.0/Methods.csproj.CoreCompileInputs.cache
+/Users/aeg/jobApp/cSharpFull/Methods/bin/Debug/net7.0/Methods
+/Users/aeg/jobApp/cSharpFull/Methods/bin/Debug/net7.0/Methods.deps.json
+/Users/aeg/jobApp/cSharpFull/Methods/bin/Debug/net7.0/Methods.runtimeconfig.json
+/Users/aeg/jobApp/cSharpFull/Methods/bin/Debug/net7.0/Methods.dll
+/Users/aeg/jobApp/cSharpFull/Methods/bin/Debug/net7.0/Methods.pdb
+/Users/aeg/jobApp/cSharpFull/Methods/obj/Debug/net7.0/Methods.dll
+/Users/aeg/jobApp/cSharpFull/Methods/obj/Debug/net7.0/refint/Methods.dll
+/Users/aeg/jobApp/cSharpFull/Methods/obj/Debug/net7.0/Methods.pdb
+/Users/aeg/jobApp/cSharpFull/Methods/obj/Debug/net7.0/Methods.genruntimeconfig.cache
+/Users/aeg/jobApp/cSharpFull/Methods/obj/Debug/net7.0/ref/Methods.dll
