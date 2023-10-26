@@ -1,0 +1,15 @@
+/Users/aeg/jobApp/cSharpFull/InterFacesDemo/bin/Debug/net7.0/InterFacesDemo
+/Users/aeg/jobApp/cSharpFull/InterFacesDemo/bin/Debug/net7.0/InterFacesDemo.deps.json
+/Users/aeg/jobApp/cSharpFull/InterFacesDemo/bin/Debug/net7.0/InterFacesDemo.runtimeconfig.json
+/Users/aeg/jobApp/cSharpFull/InterFacesDemo/bin/Debug/net7.0/InterFacesDemo.dll
+/Users/aeg/jobApp/cSharpFull/InterFacesDemo/bin/Debug/net7.0/InterFacesDemo.pdb
+/Users/aeg/jobApp/cSharpFull/InterFacesDemo/obj/Debug/net7.0/InterFacesDemo.csproj.AssemblyReference.cache
+/Users/aeg/jobApp/cSharpFull/InterFacesDemo/obj/Debug/net7.0/InterFacesDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aeg/jobApp/cSharpFull/InterFacesDemo/obj/Debug/net7.0/InterFacesDemo.AssemblyInfoInputs.cache
+/Users/aeg/jobApp/cSharpFull/InterFacesDemo/obj/Debug/net7.0/InterFacesDemo.AssemblyInfo.cs
+/Users/aeg/jobApp/cSharpFull/InterFacesDemo/obj/Debug/net7.0/InterFacesDemo.csproj.CoreCompileInputs.cache
+/Users/aeg/jobApp/cSharpFull/InterFacesDemo/obj/Debug/net7.0/InterFacesDemo.dll
+/Users/aeg/jobApp/cSharpFull/InterFacesDemo/obj/Debug/net7.0/refint/InterFacesDemo.dll
+/Users/aeg/jobApp/cSharpFull/InterFacesDemo/obj/Debug/net7.0/InterFacesDemo.pdb
+/Users/aeg/jobApp/cSharpFull/InterFacesDemo/obj/Debug/net7.0/InterFacesDemo.genruntimeconfig.cache
+/Users/aeg/jobApp/cSharpFull/InterFacesDemo/obj/Debug/net7.0/ref/InterFacesDemo.dll

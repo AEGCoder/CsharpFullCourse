@@ -1,0 +1,15 @@
+/Users/aeg/jobApp/cSharpFull/Interfaces/obj/Debug/net7.0/Interfaces.csproj.AssemblyReference.cache
+/Users/aeg/jobApp/cSharpFull/Interfaces/obj/Debug/net7.0/Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aeg/jobApp/cSharpFull/Interfaces/obj/Debug/net7.0/Interfaces.AssemblyInfoInputs.cache
+/Users/aeg/jobApp/cSharpFull/Interfaces/obj/Debug/net7.0/Interfaces.AssemblyInfo.cs
+/Users/aeg/jobApp/cSharpFull/Interfaces/obj/Debug/net7.0/Interfaces.csproj.CoreCompileInputs.cache
+/Users/aeg/jobApp/cSharpFull/Interfaces/bin/Debug/net7.0/Interfaces
+/Users/aeg/jobApp/cSharpFull/Interfaces/bin/Debug/net7.0/Interfaces.deps.json
+/Users/aeg/jobApp/cSharpFull/Interfaces/bin/Debug/net7.0/Interfaces.runtimeconfig.json
+/Users/aeg/jobApp/cSharpFull/Interfaces/bin/Debug/net7.0/Interfaces.dll
+/Users/aeg/jobApp/cSharpFull/Interfaces/bin/Debug/net7.0/Interfaces.pdb
+/Users/aeg/jobApp/cSharpFull/Interfaces/obj/Debug/net7.0/Interfaces.dll
+/Users/aeg/jobApp/cSharpFull/Interfaces/obj/Debug/net7.0/refint/Interfaces.dll
+/Users/aeg/jobApp/cSharpFull/Interfaces/obj/Debug/net7.0/Interfaces.pdb
+/Users/aeg/jobApp/cSharpFull/Interfaces/obj/Debug/net7.0/Interfaces.genruntimeconfig.cache
+/Users/aeg/jobApp/cSharpFull/Interfaces/obj/Debug/net7.0/ref/Interfaces.dll

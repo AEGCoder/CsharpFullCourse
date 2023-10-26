@@ -1,0 +1,15 @@
+/Users/aeg/jobApp/cSharpFull/Classes/bin/Debug/net7.0/Classes
+/Users/aeg/jobApp/cSharpFull/Classes/bin/Debug/net7.0/Classes.deps.json
+/Users/aeg/jobApp/cSharpFull/Classes/bin/Debug/net7.0/Classes.runtimeconfig.json
+/Users/aeg/jobApp/cSharpFull/Classes/bin/Debug/net7.0/Classes.dll
+/Users/aeg/jobApp/cSharpFull/Classes/bin/Debug/net7.0/Classes.pdb
+/Users/aeg/jobApp/cSharpFull/Classes/obj/Debug/net7.0/Classes.csproj.AssemblyReference.cache
+/Users/aeg/jobApp/cSharpFull/Classes/obj/Debug/net7.0/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aeg/jobApp/cSharpFull/Classes/obj/Debug/net7.0/Classes.AssemblyInfoInputs.cache
+/Users/aeg/jobApp/cSharpFull/Classes/obj/Debug/net7.0/Classes.AssemblyInfo.cs
+/Users/aeg/jobApp/cSharpFull/Classes/obj/Debug/net7.0/Classes.csproj.CoreCompileInputs.cache
+/Users/aeg/jobApp/cSharpFull/Classes/obj/Debug/net7.0/Classes.dll
+/Users/aeg/jobApp/cSharpFull/Classes/obj/Debug/net7.0/refint/Classes.dll
+/Users/aeg/jobApp/cSharpFull/Classes/obj/Debug/net7.0/Classes.pdb
+/Users/aeg/jobApp/cSharpFull/Classes/obj/Debug/net7.0/Classes.genruntimeconfig.cache
+/Users/aeg/jobApp/cSharpFull/Classes/obj/Debug/net7.0/ref/Classes.dll
